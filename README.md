@@ -4,7 +4,9 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
-## another section
+## another section1
+
+## section 2
 
 ## Purpose
 
