@@ -8,6 +8,10 @@ This repository is for showing how Git and GitHub work
 
 ## section 2
 
+##section 3
+
+##section4
+
 ## Purpose
 
 Sample website with plenty of files for demos
